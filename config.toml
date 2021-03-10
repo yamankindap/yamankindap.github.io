@@ -68,8 +68,9 @@ copyright = "© {year}"
   name = "blog"
   title = "Blog"
   url = "/blog"
+  
 [[menu.main]]
-  identifier = "publications"
-  name = "publications"
-  title = "Publications"
-  url = "/publications"
+  identifier = "academic"
+  name = "academic"
+  title = "Academic"
+  url = "/academic"
