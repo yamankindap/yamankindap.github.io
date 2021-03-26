@@ -1,6 +1,6 @@
 ---
 title: "Intuition Behind the Poisson Distribution"
-date: "2021-03-26"
+date: 2021-03-26
 slug: "poisson-binomial"
 description: "Intuition Behind the Poisson Distribution."
 keywords: ["binomial", "bernoulli", "poisson"]
